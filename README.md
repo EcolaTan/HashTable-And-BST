@@ -1,4 +1,4 @@
-# HashTable And BST
+# Hash Table And BST
 - Comparison of 2 different custom hashtables and bst
 ## Hash Table 
 - The first hashtable uses the default python hash function and uses linear probing for collisions
