@@ -4,5 +4,5 @@
 - The first hashtable uses the default python hash function and uses linear probing for collisions
 - The second hashtable uses the CRC32 hash function and uses quadratic probing for collisions
 
-## Hash Table 
+## BST
 - The binary tree is an AVL tree
